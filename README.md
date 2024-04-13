@@ -1,4 +1,4 @@
-- 👋 Hola, este es el repositorio de mapas del curso de análisis espacial con
+- 👋 Hola, este es el repositorio de mapas del curso de análisis espacial con R
 - 👀 Si estás interesado en compartir tus resultados
 - 💞️ utiliza esta herramienta GitHub
 
